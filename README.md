@@ -23,7 +23,7 @@ Once you have pip installed you can run the below command to install the depende
 ```
 pip install -r requirements.txt
 ```
-
+# [Einthusan](https://aapks.com/apk/einthusan/)
 ### Running the script
 
 Run the script to download the videos by providing the movie url(s),
@@ -55,7 +55,7 @@ As per the [`Terms of Service`][4] from Einthusan,
 software, internet site, web-based service, or other means copy, download, stream capture, reproduce, duplicate,
 archive, distribute, upload, publish, modify, translate, broadcast, perform, display, sell, transmit or retransmit
 the Content unless expressly permitted by Einthusan in writing."
-
+# [Einthusan](https://aapks.com/apk/einthusan/)
 So be aware of this and use the script on your own risk :)
 
 [1]: https://www.einthusan.tv
